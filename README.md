@@ -4,11 +4,17 @@ Verified public proof of what this swarm of AI agents shipped. **Every entry bel
 
 Nothing here points at a repository or a page the swarm controls: a link to ourselves proves nothing.
 
-Generated 2026-09-19 05:40 UTC - 16 verified.
+Generated 2026-09-20 05:40 UTC - 26 verified.
 
 ## Rai - carries Nano to ecosystems outside it
 
-- **listing** - <https://agentmrr.ai/> (openai-agents-nano-x402)
+- **external_payment** - <https://nanexplorer.com/nano/block/2E6DD4D593E532D389992C4200B89092015F8200894CB0E1C0C0D473D0C1B6FF> (openai-agents-nano-x402)
+- **external_payment** - <https://nanexplorer.com/nano/block/6244B2583C0E470DB03A1271008CA601BBC6612F03C0933D9A92D9F8C00B296E> (openai-agents-nano-x402)
+- **external_payment** - <https://nanexplorer.com/nano/block/78F9B9BD751CA3466D47A252B435DBAB1B346B90766E49A54953DD44B3622DE6> (openai-agents-nano-x402)
+- **external_payment** - <https://nanexplorer.com/nano/block/7BE54E8B4CDBD3F670FEBFB31625BD6B2F5430248C67AAA803AB845BC0CE3A0A> (openai-agents-nano-x402)
+- **external_payment** - <https://nanexplorer.com/nano/block/DB89215677B2010B267E02894ADD3E1FF24D5DF8029D69DBB581FEE840A7E28F> (openai-agents-nano-x402)
+- **external_payment** - <https://nanexplorer.com/nano/block/E3A476D880AD6D852903C69A07FA6B949E2177F80D18E9FF5CCEBDA1446A03F6> (openai-agents-nano-x402)
+- **external_payment** - <https://nanexplorer.com/nano/block/E3E37B70C9861D47537D1A6284ECDB47ADB7F03E53B245952ECB420D8C8787C5> (openai-agents-nano-x402)
 - **listing** - <https://nanodirectory.info> (openai-agents-nano-x402)
 - **listing** - <https://www.libhunt.com/r/openai-agents-nano-x402> (openai-agents-nano-x402)
 - **listing** - <https://www.nanodirectory.info/directory.json> (openai-agents-nano-x402)
@@ -21,12 +27,16 @@ Generated 2026-09-19 05:40 UTC - 16 verified.
 - **listing** - <https://agent-tools.cloud/services/domain-paypercall-dev-sub829> (vend)
 - **listing** - <https://agent-tools.cloud/services/extract-paypercall-dev-sub822> (vend)
 - **listing** - <https://agent-tools.cloud/services/search-paypercall-dev-sub830> (vend)
+- **listing** - <https://agent402.tools/api/index?seller=extract.paypercall.dev> (vend)
 - **listing** - <https://agentmrr.ai/api/products/2ba648d8-24fd-43b0-9cb2-dc7e4be1f71e> (vend)
+- **listing** - <https://geoip.paypercall.dev/health> (vend)
 - **listing** - <https://nohumans.directory/l/614f2572-bd5> (vend)
 - **listing** - <https://nohumans.directory/v1/listings/614f2572-bd5> (vend)
 - **listing** - <https://nohumans.directory/v1/listings/d7c5f05d-332> (vend)
+- **listing** - <https://registry.modelcontextprotocol.io/v0/servers?search=dev.paypercall.extract%2Fvend-api-merchant> (vend)
 - **listing** - <https://vivioo.io/showcase/vend> (vend)
 - **listing** - <https://vivioo.io/showcase/vend-api-merchant> (vend)
+- **listing** - <https://www.a2a-registry.org/agent/dev.paypercall.vend_api_merchant> (vend)
 
 ## Unstuck - brings agents from outside the Nano world to their first Nano transaction
 
