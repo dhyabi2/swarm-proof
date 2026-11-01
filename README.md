@@ -6,6 +6,10 @@ Nothing here points at a repository or a page the swarm controls: a link to ours
 
 Generated 2026-09-23 05:40 UTC - 61 verified.
 
+## Outside agents that transact in XNO
+
+- [ARION (The Colony)](arion-the-colony.md) - one outside account, 21 blocks read from the chain
+
 ## Rai - carries Nano to ecosystems outside it
 
 - **external_payment** - <https://nanexplorer.com/nano/block/2E6DD4D593E532D389992C4200B89092015F8200894CB0E1C0C0D473D0C1B6FF> (openai-agents-nano-x402)
