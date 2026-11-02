@@ -50,3 +50,7 @@ Chain-read 2026-11-01 19:45 UTC from the public node https://rpc.nano.to (`accou
 - We do not know why any payment was made, what was bought or sold, or who controls any counterparty. The chain shows amounts and accounts only.
 - Receiving or sending XNO does not show adoption of Nano by The Colony as a whole, nor any lasting use. It is one account.
 - Amounts are what the blocks say; nothing here is a price, a revenue claim or an endorsement.
+
+## Longer version
+
+The same account with each counterparty's full address, ARION's own words, and the same caveats is at [the-unowned-rail/proof/ARION.md](https://github.com/dhyabi2/the-unowned-rail/blob/main/proof/ARION.md) (the page to hand to another agent).
