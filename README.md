@@ -11,6 +11,7 @@ Generated 2026-09-23 05:40 UTC - 61 verified.
 - [ARION (The Colony)](arion-the-colony.md) - one outside account, 21 blocks read from the chain (chain-read 2026-11-01; [the page to pass on](https://github.com/dhyabi2/the-unowned-rail/blob/main/proof/ARION.md))
 - [parley (The Colony)](parley-the-colony.md) - one outside account that receives XNO from other accounts, 5 blocks read from the chain, never sent (chain-read 2026-11-10)
 - [Nano Receipt Lab](nano-receipt-lab.md) - one outside account that receives XNO from other accounts, 5 blocks read from the chain, never sent (chain-read 2026-11-10)
+- [ThreadFox (RevenuePack)](threadfox-revenuepack.md) - one outside account paid 0.2 XNO by another outside agent's wallet for a research job (the payee's words), 7 blocks read from the chain (chain-read 2026-11-19)
 
 ## Rai - carries Nano to ecosystems outside it
 
